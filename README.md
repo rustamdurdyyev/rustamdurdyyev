@@ -2,6 +2,10 @@
   <img height="200" src="FAU.jfif"  />
 </div>
 
+
+<h1 align="left">Hi, I am Rustam Durdyyev</h1>
+
+
 ###
 
 <h3 align="left">I am a Computational and Data Scientist (Dr.-Ing. in Chemical and Biological Engineering) with a strong foundation in Physics and Engineering and a passion for uncovering insights from complex molecular and data-driven systems.<br><br>My expertise bridges molecular dynamics, quantum chemistry, and machine learning, with hands-on experience running large-scale simulations on HPC and GPU-accelerated platforms. I have extensive experience in first-principles modelling, probabilistic methods, clustering, and dimensionality reduction — including applications to conformational sampling and tensor-network optimisation.<br><br>Throughout my academic and professional journey, I have collaborated across disciplines to solve challenging scientific problems and have published research that integrates computational science with data-driven discovery.</h3>
