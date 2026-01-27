@@ -76,7 +76,7 @@
 
 <h2 align="left">🧠 Technical Expertise</h2>
 
-<h4 align="left">🐍 Python & Data Analysis</h4>
+<h3 align="left">🐍 Python & Data Analysis</h3>
 <p align="left">
 NumPy · Pandas · Matplotlib · Seaborn · SciPy · JAX · SQL
 </p>
