@@ -70,6 +70,38 @@
 
 ###
 
+<h2 align="left">🧠 Technical Expertise</h2>
+
+<h4 align="left">🐍 Python & Data Analysis</h4>
+<p align="left">
+NumPy · Pandas · Matplotlib · Seaborn · SciPy · JAX · SQL
+</p>
+
+<h4 align="left">🤖 Machine Learning</h4>
+<p align="left">
+scikit-learn · TensorFlow · PyTorch · Keras · Neural Networks
+</p>
+
+<h4 align="left">📊 Statistical Analysis</h4>
+<p align="left">
+Statsmodels · WHAM
+</p>
+
+<h4 align="left">☁️ Cloud & Scientific Computing</h4>
+<p align="left">
+AWS · Linux · SLURM · HPC (CPU · GPU · TPU)
+</p>
+
+<h4 align="left">🧪 Simulation & Molecular Modelling</h4>
+<p align="left">
+GROMACS · AMBER · VASP · DFT · VMD · CRESP
+</p>
+
+###
+
+
+###
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=rustamdurdyyev.rustamdurdyyev&"  />
 </div>
